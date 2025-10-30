@@ -56,4 +56,5 @@ pip install -r requirements.txt
 - If your webcam is not detected, you may need to adjust the camera index in the scripts (e.g., change `0` to `1`).
 
 
-![Asl-sign-language-coloring-at-coloring-pages-for-kids-boys-dotcom](https://github.com/user-attachments/assets/045f2e54-d2e5-4b4b-84d0-3816e50b5bf8)
+![Screenshot 2025-10-30 225002](https://github.com/user-attachments/assets/248a96a1-4c4c-48a8-8fd5-2518e2b816c7)
+
