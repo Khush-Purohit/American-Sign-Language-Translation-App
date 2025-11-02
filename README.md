@@ -36,6 +36,9 @@ source .venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
+
+# To run the application
+python main_application.py
 ```
 
 ## Project Structure
